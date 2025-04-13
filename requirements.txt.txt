@@ -1,0 +1,9 @@
+Voici les dépendances nécessaires pour une implémentation en Python avec traitement vidéo (Jester Dataset) et apprentissage profond :
+# requirements.txt
+numpy==1.26.4
+opencv-python==4.9.0.80
+tensorflow==2.15.0  
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+jupyter==1.0.0
